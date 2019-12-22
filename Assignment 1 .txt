@@ -1,0 +1,51 @@
+﻿NAME : MUHAMMAD IMRAN
+
+
+1. How and where is facebook using Machine Learning to improve user experience? 
+Facebook uses Machine learning in every aspect. Either you are scrolling the news feed or browsing the images or videos, you have been a part of seeing Artificial Intelligence(Machine learning).
+For instance, if you upload an image at Facebook with your friends, animals or simply with pretty background, then you might get a suggestion whether you wanna tag other person or not with this image. Here you don’t need to seek that person over Facebook, Facebook will already do it for you. Facebook can also tell about a person is Happy/Sad or she/he is standing or sitting or even any other type of activity can easily be distinguished with the help of AI or ML.
+Theoretically this type of learning would be called as “Supervised Learning” in which Facebook would learn from past experience(similar images) and label it(giving suggestion of tagging) to that particular image.
+It also use AI, in partitioning the content of your feed on basis of priority. Let me explain you more, Have you ever talk to someone seamlessly or go through his/her news feed regularly? If your answer is YES then you must sure seen or noted something unusual at Facebook. The person that you have do so, would always give the high priority in every aspect i.e., whether you click the chat button, Likes of any post, News etc. that person would always be on the top. In other words all the activities related to that particular friend(s) would be partitioned from others friends.
+We can simply say that, it will be grouped together which is nothing know as “Unsupervised Learning” without labelling it.
+
+Hence from above, we can conclude that Facebook use Machine learning in every aspect. You just need to visualise where it’s exactly been implemented.
+There are other types of learning can also be considered like Re-reinforcement learning, semi-supervised learning etc. But due to lack of example I can’t be sure about them.
+2. How do you think deep learning can change the world and do wonders?
+No Need for Feature Engineering
+Feature engineering is the process of extracting features from raw data to better describe the underlying problem. It is a fundamental job in machine learning as it improves model accuracy. The process can sometimes require domain knowledge about a given problem.
+To better understand feature engineering, consider the following example.
+In the real estate business, the location of a house has a significant impact on the selling price. Suppose the location is given as the latitude and the longitude. Alone these two numbers are not of any use but put together they represent a location. The act of combining the latitude and the longitude to make one feature is feature engineering.
+One of deep learning’s main advantages over other machine learning algorithms is its capacity to execute feature engineering on it own. A deep learning algorithm will scan the data to search for features that correlate and combine them to enable faster learning without being explicitly told to do so.
+This ability means that data scientists can sometimes save months of work. Besides, the neural networks that a deep learning algorithm is made of can uncover new, more complex features that human can miss.
+Best Results with Unstructured Data
+According to research from Gartner, up to 80% of a company’s data is unstructured because most of it exists in different formats such as texts, pictures, pdf files and more. Unstructured data is hard to analyze for most machine learning algorithms, which means it’s also going unutilized. That is where deep learning can help.
+ structured and unstructured data 
+Examples of structured and unstructured data. Source
+ 
+Deep learning algorithms can be trained using different data formats, and still derive insights that are relevant to the purpose of its training. For example, a deep learning algorithm can uncover any existing relations between pictures, social media chatter, industry analysis, weather forecast and more to predict future stock prices of a given company.
+No Need for Labeling of Data
+Getting good-quality training data is one of the biggest problems in machine learning because data labeling can be a tedious and expensive job.
+Sometimes, the data labeling process is simple but time-consuming. For example, labeling photos “dog” or “muffin” is an easy task, but an algorithm needs thousands of pictures to tell the difference. Other times, data labeling may require the judgments of highly skilled industry experts, and that is why, for some industries, getting high-quality training data can be very expensive.
+Let’s look at the example of Microsoft’s project InnerEye, a tool that uses computer vision to analyze radiological images. To make correct, autonomous decisions, the algorithm requires thousands of well-annotated images where different physical anomalies of the human body are clearly labeled. Such work needs to be done by a radiologist with experience and a trained eye. According to Glassdoor, an average base salary for a radiologist is $290.000 a year, which puts the hourly rate just short of $200. Given that around 4-5 images can be analyzed per hours, proper labeling of all images will be expensive.
+With deep learning, the need for well-labeled data is made obsolete as deep learning algorithms excel at learning without guidelines. Other forms of machine learning are not nearly as successful with this type of learning. In the example above, a deep learning algorithm would be able to detect physical anomalies of the human body, even at earlier stages than human doctors.
+Efficient at Delivering High-quality Results
+Humans need rest and fuel. They get tired or hungry and make careless mistakes. That is not the case for neural networks. Once trained correctly, a deep learning brain can perform thousands of repetitive, routine tasks within a shorter period of time than it would take a human being. The quality of its work never diminishes, unless the training data includes raw data that does not represent the problem you are trying to solve.
+
+
+
+
+
+
+
+
+3. What is your dream AI project that can become into reality and can have a commercial value. Justify your answer.
+ere are some actual facts that prove my statement:
+According to current research projects show that artificial intelligence (AI) can also be used for the greater good. Here are five global problems that machine learning could help us solve.
+Health
+For example, a recent ground-breaking discovery of the disease Amyotrophic Lateral Sclerosis (ALS), was made through a partnership between Barrow Neurological Institute and the artificial intelligence company IBM Watson Health. IBM Watson, the artificial intelligence computer, reviewed thousands of pieces of research and was able to identify new genes linked to ALS.
+Transportation
+According to a report by Stanford University, not only will self-driving cars reduce traffic-related deaths and injuries, but they could bring about changes in our lifestyles as well. We will have more time to work or entertain ourselves during commutes.
+Education
+AI can transform how we learn. Last year, students at Georgia Tech University in the US were startled to discover that their helpful teaching assistant had in fact been a robot all along. After initial teething problems, the robot started answering the students’ questions with 97% certainty.
+Energy
+Google has used its artificial intelligence platform Deep Mind to predict when its data centres will get too hot. Cooling systems are only activated when required. AI has saved Google around 40% in energy costs at its server farms.
